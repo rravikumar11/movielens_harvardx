@@ -1,6 +1,6 @@
 # movielens_harvardx
 
-Predictive model guessing the rating over a movie with user and time data. Part of the capstone for HarvardX's Data Science certification.
+Predictive model guessing the rating of a movie with user and time data. Part of the capstone for HarvardX's Data Science certification.
 
 Starting with the fundamentals established in the HarvardX Data Science: Machine Learning course, we develop the model further by including more effects and incorporating regularization. Through these efforts, we achieve a residual mean square error (RMSE), essentially the average error of a given prediction, of 0.864525.
 
